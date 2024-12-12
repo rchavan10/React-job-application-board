@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Hero = () => {
+const Hero = ({ title = 'Become a React Dev' }) => {
   return (
     <section class="bg-indigo-700 py-20 mb-4">
       <div
@@ -10,7 +10,7 @@ const Hero = () => {
           <h1
             class="text-4xl font-extrabold text-white sm:text-5xl md:text-6xl"
           >
-            Become a React Dev
+            { title }
           </h1>
           <p class="my-4 text-xl text-white">
             Find the React job that fits your skills and needs
