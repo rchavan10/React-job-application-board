@@ -94,12 +94,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Special thanks to [bradtraversy](https://github.com/bradtraversy) for their guidance throughout the development of this project.
 
----
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out:
-
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
