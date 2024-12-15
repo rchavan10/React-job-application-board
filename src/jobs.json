@@ -1,4 +1,4 @@
- {
+{
   "jobs": [
     {
       "id": "1",
@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "72d8",
+      "title": "Test Job",
+      "type": "Full-Time",
+      "location": "Santa Clara, CA, USA",
+      "description": "This is a test job",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Test company",
+        "description": "This is a good company",
+        "contactEmail": "careers@testcompany.com",
+        "contactPhone": "1234567890"
+      }
     }
   ]
- }
+}
